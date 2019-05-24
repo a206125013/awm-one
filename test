@@ -13,5 +13,5 @@ ui.show("awm")
 end
 
 home()
-sleep(9000)
+sleep(30*1000)
 toast("演示完毕正在退出",3000)
