@@ -13,5 +13,6 @@ ui.show("awm")
 end
 while 1 do
 home()
-sleep(300)
+xscript.pause()
+sleep(888)
 end
