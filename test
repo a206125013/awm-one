@@ -1,5 +1,5 @@
 ui.newLayoutEmpty("awm",300)
-ui.addTextView("Text","AXS打包：代码云更新",14)
+ui.addTextView("Text","AXS：代码云更新演示",14)
 ui.newRow("Row")
 ui.addButton("2","功能1\n仅演示无实际效果",131.5,50)
 ui.addButton("3","功能2\n仅演示无实际效果",131.5,50)
