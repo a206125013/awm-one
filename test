@@ -1,3 +1,4 @@
+local function home()
 ui.newLayoutEmpty("awm",300)
 ui.addTextView("Text","AXS：代码云更新演示",14)
 ui.newRow("Row")
@@ -9,3 +10,8 @@ ui.addTextView("Text","By：AWM",13)
 ui.newRow("Row")
 ui.addTextView("by","QQ206125013",13)
 ui.show("awm")
+end
+while 1 do
+home()
+sleep(300)
+end
